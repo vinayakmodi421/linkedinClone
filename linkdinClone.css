@@ -58,6 +58,9 @@
     .display-none-at330px{
         display: none!important;
     }
+    .my-container-2{
+        display: none!important;
+    }
 }
 
 
@@ -536,4 +539,5 @@
 .msg{
 
     padding: 5px;
+
 }
